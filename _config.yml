@@ -1,0 +1,33 @@
+# Site Settings
+title:               Shari Laster
+tagline:             (a person)
+description: >
+  Shari Laster is the Government Information Librarian & Data Services Librarian at the University of California, Santa Barbara.
+baseurl:            #"/sharilaster"
+url:                #"https://sharilaster.github.io"
+github:
+  url:               #"https://sharilaster.github.io/sharilaster"
+author:
+  name:              "Shari Laster"
+  email:             "rhonabwy@gmail.com"
+  twitter:           "rhonabwy"
+  instagram:         ""
+  github:            "sharilaster"
+  facebook:          ""
+  linkedin:          ""
+navigation:
+- title: about
+  url: /about
+- title: writing
+  url: /writing
+- title: projects
+  url: /projects
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
