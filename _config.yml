@@ -2,7 +2,7 @@
 title:               Shari Laster
 tagline:             (a person)
 description: >
-  Shari Laster is the Head of Open Stack Collections at Arizona State University.
+  Shari Laster is the Head of Open Collections Curation & Access at Arizona State University Library.
 baseurl:            #"/sharilaster"
 url:                #"https://sharilaster.github.io"
 github:
@@ -10,7 +10,7 @@ github:
 author:
   name:              "Shari Laster"
   email:             "shari.laster@gmail.com"
-  twitter:           "rhonabwy"
+  twitter:           ""
   instagram:         ""
   github:            "sharilaster"
   facebook:          ""
