@@ -8,6 +8,6 @@ I am an active member of the [PEGI Project](https://www.pegiproject.org/) steeri
 
 I hold an MS in Library Science from the University of North Carolina at Chapel Hill, and a BA from Rice University. 
 
-My pronouns are she/her/hers or they/them/theirs.
+My pronouns are she/her/hers and they/them/theirs.
 
 This site is built in [Jekyll](https://jekyllrb.com/) using the minimalist theme [Lagrange](https://lenpaul.github.io/Lagrange/ "Lagrange, a minimalist Jekyll theme"), and hosted on [GitHub Pages](https://pages.github.com/). I relied almost entirely on the [Programming Historian tutorial](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages "Building a static website with Jekyll and GitHub Pages") by Amanda Visconti for assembling and modifying this site.
